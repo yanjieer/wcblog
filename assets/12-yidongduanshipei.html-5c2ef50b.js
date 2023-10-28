@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-21f8f4d0","path":"/blogs/base/12-yidongduanshipei.html","title":"12-移动端适配","lang":"en-US","frontmatter":{"title":"12-移动端适配","date":"2023/10/26","tags":["js"],"categories":["base"]},"headers":[],"git":{},"filePathRelative":"blogs/base/12-移动端适配.md"}');export{e as data};
