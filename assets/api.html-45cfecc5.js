@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-acdd9360","path":"/docs/theme-reco/api.html","title":"api","lang":"en-US","frontmatter":{"title":"api","date":"2020/05/29"},"headers":[],"git":{"createdTime":1692766767000,"updatedTime":1692766767000,"contributors":[{"name":"wangcai","email":"810891995@qq.com","commits":1}]},"filePathRelative":"docs/theme-reco/api.md"}');export{e as data};
