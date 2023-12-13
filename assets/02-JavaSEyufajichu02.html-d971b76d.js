@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-6f96f039","path":"/blogs/javase/02-JavaSEyufajichu02.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"blogs/javase/02-JavaSE语法基础02.md"}');export{a as data};
