@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4133a0b6","path":"/blogs/javase/12-teshuwenjianyurizhijishu.html","title":"12-特殊文件与日志技术","lang":"en-US","frontmatter":{"title":"12-特殊文件与日志技术","date":"2023/12/26","tags":["java"],"categories":["javase"]},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"blogs/javase/12-特殊文件与日志技术.md"}');export{e as data};
