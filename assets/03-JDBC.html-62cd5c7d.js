@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-19ffe068","path":"/blogs/javaweb/03-JDBC.html","title":"03-JDBC","lang":"en-US","frontmatter":{"title":"03-JDBC","date":"2024/01/03","tags":["java"],"categories":["javaweb"]},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"blogs/javaweb/03-JDBC.md"}');export{e as data};

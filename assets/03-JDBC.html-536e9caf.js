@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as a,b as e,d as o}from"./app-6c93334e.js";const r={},s=e("h1",{id:"jdbc",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#jdbc","aria-hidden":"true"},"#"),o(" JDBC")],-1),_=[s];function d(n,i){return c(),a("div",null,_)}const l=t(r,[["render",d],["__file","03-JDBC.html.vue"]]);export{l as default};
